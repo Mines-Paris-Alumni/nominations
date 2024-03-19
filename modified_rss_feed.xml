@@ -9,8 +9,8 @@
 <!--      <enclosure length="7109" type="image/jpeg" url="https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg"/>-->
 <!--      <nomination:textlength>638</nomination:textlength>-->
 <!--      <category domain="textlength">638</category>-->
-<!--      <nomination:bdimage>https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg</nomination:bdimage>-->
-      <category domain="bdimage">https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg</category>
+      <nomination:bdimage>https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg</nomination:bdimage>
+<!--      <category domain="bdimage">https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg</category>-->
       <nomination:civilite>Monsieurr</nomination:civilite>
 <!--      <category domain="civilite">Monsieurrr</category>-->
       <nomination:prenom>Christian</nomination:prenom>
@@ -33,8 +33,8 @@
 <!--      <category domain="libelle_famille">Directeur général, DGA, directeur exécutif</category>-->
 <!--      <nomination:id_region>107</nomination:id_region>-->
 <!--      <category domain="id_region">107</category>-->
-<!--      <nomination:libelle_region>Île-de-France</nomination:libelle_region>-->
-<!--      <category domain="libelle_region">Île-de-France</category>-->
+      <nomination:libelle_region>Île-de-Francens</nomination:libelle_region>
+      <category domain="libelle_region">Île-de-Francebrut</category>
 <!--      <nomination:contact_url>https://app.nomination.fr/contact/257191/profile</nomination:contact_url>-->
 <!--      <category domain="contact_url">https://app.nomination.fr/contact/257191/profile</category>-->
     </item>
