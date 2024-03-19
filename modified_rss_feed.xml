@@ -7,35 +7,35 @@
       <pubDate>2024-03-14T16:23:30+00:00</pubDate>
       <guid isPermaLink="true">https://app.nomination.fr/contact/257191/profile</guid>
       <enclosure length="7109" type="image/jpeg" url="https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg"/>
-      <nomination:textlength>638</nomination:textlength>
+<!--      <nomination:textlength>638</nomination:textlength>-->
       <category domain="textlength">638</category>
-      <nomination:bdimage>https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg</nomination:bdimage>
+<!--      <nomination:bdimage>https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg</nomination:bdimage>-->
       <category domain="bdimage">https://storage.googleapis.com/static-portraits-nomination/mini/257191.jpg</category>
-      <nomination:civilite>Monsieur</nomination:civilite>
+<!--      <nomination:civilite>Monsieur</nomination:civilite>-->
       <category domain="civilite">Monsieur</category>
-      <nomination:prenom>Christian</nomination:prenom>
+<!--      <nomination:prenom>Christian</nomination:prenom>-->
       <category domain="prenom">Christian</category>
-      <nomination:nom>Kopp</nomination:nom>
+<!--      <nomination:nom>Kopp</nomination:nom>-->
       <category domain="nom">Kopp</category>
-      <nomination:fonction>Directeur général adjoint</nomination:fonction>
+<!--      <nomination:fonction>Directeur général adjoint</nomination:fonction>-->
       <category domain="fonction">Directeur général adjoint</category>
-      <nomination:societe>Plastic Omnium</nomination:societe>
+<!--      <nomination:societe>Plastic Omnium</nomination:societe>-->
       <category domain="societe">Plastic Omnium</category>
-      <nomination:lienfairepart>&lt;a href="https://www.nomination.fr/mouvement/information-btob/nomi.php?organization_id=6858"&gt;Annoncez votre nomination&lt;/a&gt;</nomination:lienfairepart>
+<!--      <nomination:lienfairepart>&lt;a href="https://www.nomination.fr/mouvement/information-btob/nomi.php?organization_id=6858"&gt;Annoncez votre nomination&lt;/a&gt;</nomination:lienfairepart>-->
       <category domain="lienfairepart">&lt;a href="https://www.nomination.fr/mouvement/information-btob/nomi.php?organization_id=6858"&gt;Annoncez votre nomination&lt;/a&gt;</category>
-      <nomination:id_secteur>42</nomination:id_secteur>
+<!--      <nomination:id_secteur>42</nomination:id_secteur>-->
       <category domain="id_secteur">42</category>
-      <nomination:libelle_secteur>Automobiles, équipementiers</nomination:libelle_secteur>
+<!--      <nomination:libelle_secteur>Automobiles, équipementiers</nomination:libelle_secteur>-->
       <category domain="libelle_secteur">Automobiles, équipementiers</category>
-      <nomination:id_famille>2</nomination:id_famille>
+<!--      <nomination:id_famille>2</nomination:id_famille>-->
       <category domain="id_famille">2</category>
-      <nomination:libelle_famille>Directeur général, DGA, directeur exécutif</nomination:libelle_famille>
+<!--      <nomination:libelle_famille>Directeur général, DGA, directeur exécutif</nomination:libelle_famille>-->
       <category domain="libelle_famille">Directeur général, DGA, directeur exécutif</category>
-      <nomination:id_region>107</nomination:id_region>
+<!--      <nomination:id_region>107</nomination:id_region>-->
       <category domain="id_region">107</category>
-      <nomination:libelle_region>Île-de-France</nomination:libelle_region>
+<!--      <nomination:libelle_region>Île-de-France</nomination:libelle_region>-->
       <category domain="libelle_region">Île-de-France</category>
-      <nomination:contact_url>https://app.nomination.fr/contact/257191/profile</nomination:contact_url>
+<!--      <nomination:contact_url>https://app.nomination.fr/contact/257191/profile</nomination:contact_url>-->
       <category domain="contact_url">https://app.nomination.fr/contact/257191/profile</category>
     </item>
     <item>
